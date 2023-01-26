@@ -11,10 +11,10 @@ Import numpy as np to find the rank of a matrix
 ### Step 2:
 Assign A in np.array() in the matrix.
 
-###Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+### Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 Using the np.linalg.matrix_rank(), we can find the rank of the given matrix
 
-###Step 4:
+### Step 4:
 Print the value and End the program.
 
 ## Program:
